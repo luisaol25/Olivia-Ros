@@ -1,0 +1,86 @@
+
+
+.color-nav{
+    background-color: #373A3C;
+}
+
+.navbar-toggler-icon{
+    filter: invert(1);
+}
+
+.navbar-toggler{
+    border: 1px solid white;
+}
+
+.banner{
+    background-image: url(../img/bg-hero.jpg);
+    background-size: 100% 120%;
+    text-align: right;
+    height: 630px;
+}
+
+.banner h1{
+    color: white;
+    background-size: cover;
+    font-family: 'Raleway';
+    font-weight: bold;
+}
+
+.banner p{
+    color: white;
+}
+
+.navbar-nav a{
+    color:white;
+}
+
+.nav-link{
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px !important;
+}
+
+.texto-banner{
+    text-align: center;
+}
+
+.btn-borde-color {
+    border-color: #17A2B8; /* Color del borde */
+    background-color: transparent; /* Fondo transparente */
+    color: white;    
+}
+
+.btn-fondo-color{
+    background-color: #17A2B8; /* Color de fondo */
+      color: #ffffff; /* Color del texto */
+}
+
+
+
+.card-fotos{
+    background-color: #17A2B8;
+}
+.titulo-card{
+    text-align: center;
+    color: white;
+}
+
+.titulo-formulario{ 
+    text-align: center;
+
+}
+.parrafo-formulario{
+    text-align: center;
+}
+
+.boton-ver-mas{
+    background-color: #ffffff; /* Fondo blanco */
+  border-color: #56C0E0; /* Color del borde */
+  color: #56C0E0; /* Color del texto */
+    
+}
+
+footer{
+    background-color: #0F0F0F;
+    text-align: center;
+    color: white;
+}
